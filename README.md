@@ -1,6 +1,6 @@
 # AspectJ-Performance-Measurement-Framework
 
-This is a simple measurement framework for aspect framework AspectJ.
+This is a measurement framework for the AspectJ programming language targeting its aspect-oriented features.
 
 Using this framework, one can measure following performance aspects
 of AspectJ framework:
